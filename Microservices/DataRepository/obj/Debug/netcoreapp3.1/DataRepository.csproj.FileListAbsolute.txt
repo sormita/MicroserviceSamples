@@ -1,0 +1,12 @@
+C:\CodeBase\Microservices\Microservices\DataRepository\bin\Debug\netcoreapp3.1\DataRepository.deps.json
+C:\CodeBase\Microservices\Microservices\DataRepository\bin\Debug\netcoreapp3.1\DataRepository.dll
+C:\CodeBase\Microservices\Microservices\DataRepository\obj\Debug\netcoreapp3.1\DataRepository.csprojAssemblyReference.cache
+C:\CodeBase\Microservices\Microservices\DataRepository\obj\Debug\netcoreapp3.1\DataRepository.AssemblyInfoInputs.cache
+C:\CodeBase\Microservices\Microservices\DataRepository\obj\Debug\netcoreapp3.1\DataRepository.AssemblyInfo.cs
+C:\CodeBase\Microservices\Microservices\DataRepository\bin\Debug\netcoreapp3.1\DataRepository.runtimeconfig.json
+C:\CodeBase\Microservices\Microservices\DataRepository\bin\Debug\netcoreapp3.1\DataRepository.runtimeconfig.dev.json
+C:\CodeBase\Microservices\Microservices\DataRepository\obj\Debug\netcoreapp3.1\DataRepository.genruntimeconfig.cache
+C:\CodeBase\Microservices\Microservices\DataRepository\bin\Debug\netcoreapp3.1\DataRepository.pdb
+C:\CodeBase\Microservices\Microservices\DataRepository\obj\Debug\netcoreapp3.1\DataRepository.csproj.CoreCompileInputs.cache
+C:\CodeBase\Microservices\Microservices\DataRepository\obj\Debug\netcoreapp3.1\DataRepository.dll
+C:\CodeBase\Microservices\Microservices\DataRepository\obj\Debug\netcoreapp3.1\DataRepository.pdb
